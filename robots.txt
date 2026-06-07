@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://best-iptv-sub.github.io/best-iptv-service-for-firestick-4k-max-2026/sitemap.xml
